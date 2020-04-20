@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+html,body{
+background-color: white;   
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Ink Free', sans-serif;
+font-size: 20px;
+
+}
+.container{
+height: 100%;
+align-content: center;
+}
+.container-fluid{
+height: 100%;
+padding: 0px;
+align-content: center;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card-header h3{
+color: white;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+.full row-cols-6{
+    background-color: #FFC312;
+}
+/*.navbar{
+    background-color: #7abaff;
+    padding: 0px
+        
+}*/
+.navbar row-cols-1 navbar-expand-sm{
+    background-color: #34ce57;
+    padding: 0px
+}
+.dropdown-menu{
+    background-color: #34ce57;
+}
+.nav-link{
+    color: #000;
+}
+.nav-link:hover{
+    color: #000;
+    background-color: #ffdf7e;
+}
+.img-fluid{
+    width: 40px;
+}
+.fa-bell{
+    color: white;
+}
+.col-9{
+    font-family: 'Ink Free';
+}
+
+.full{
+    height: 100%;
+}
+
+

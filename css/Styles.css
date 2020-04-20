@@ -1,0 +1,86 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 27, 2020, 9:41:17 PM
+    Author     : lenovo
+*/
+@import url('https://fonts.googleapis.com/css?family=Numans');
+html,body{
+background-image: url('..//image/2.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+float-right col-10{
+    font-size: 1px;
+}
+.container{
+height: 100%;
+align-content: center;
+}
+.container-fluid{
+height: 100%;
+padding: 0px;
+align-content: center;
+}
+
+.card{
+height: 370px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.card-header h3{
+color: white;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #FFC312;
+color: black;
+border:0 !important;
+}
+
+input:focus{
+outline: 0 0 0 0  !important;
+box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+color: white;
+}
+
+
+.abc{
+    color: red;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+.navbar{
+    padding: 0px
+}
+.img-fluid{
+    width: 40px;
+}
+.fa-bell{
+    color: white;
+}
+.BaoLoi{
+    color: red;
+}

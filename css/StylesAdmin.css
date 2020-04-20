@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 28, 2020, 5:08:04 PM
+    Author     : lenovo
+*/
+@import url('https://fonts.googleapis.com/css?family=Numans');
+html,body{
+background-color: white;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+.container{
+height: 100%;
+align-content: center;
+}
+
+.container-fluid{
+height: 100%;
+padding: 0px;
+align-content: center;
+}
+
+.text-center{
+    text-align: center;
+}
+.mess{
+    text-align: center;
+    color: red;
+}
+#panel, #flip {
+  padding: 5px;
+  text-align: center;
+  background-color: white;
+  border: solid 1px #c3c3c3;
+}
+
+#panel {
+  padding-left:  30px;
+  display: none;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #7abaff;
+    padding: 0px
+        
+}
+.dropdown-menu{
+    background-color: #34ce57;
+}
+
+.fa-bell{
+    color: white;
+}
+.col-9{
+    font-family: 'Ink Free';
+}
